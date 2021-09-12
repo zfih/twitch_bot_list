@@ -14,13 +14,18 @@ Call the !filesay (or equivalent command) with the a given raw text file to run.
 ```!filesay  https://raw.githubusercontent.com/zfih/twitch_bot_list/main/list1.txt```
 
 To use the next file simply change the list1.txt to list2.txt or any other.
+I have not tried this with other bots like StreamLabs or Nightbot, so I don't know the requirements of these.
+If you want to test if you have access to the command you can run the test file 
+
+`!filesay https://raw.githubusercontent.com/zfih/twitch_bot_list/main/bottest.txt`
+
+which should print the following in chat: `filesay command is available to you and working as intended`
+
 Copy paste of all available files for the lazy:
 ```
 !filesay https://raw.githubusercontent.com/zfih/twitch_bot_list/main/list1.txt
 !filesay https://raw.githubusercontent.com/zfih/twitch_bot_list/main/list2.txt
 ```
-
-I have not tried this with other bots like StreamLabs or Nightbot, so I don't know the requirements of these.
 
 ## Help out
 To add name make a pull request with the bot names or dm me your list on discord @ zfih#0666
