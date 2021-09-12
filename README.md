@@ -1,5 +1,5 @@
 # Twitch bot ban list
-Public collection of bot ban commands to be used with !filesay commands or similar found in many larger twitch chat bots such as StreamElements and Fossabot. The purpose of these is to simply collect a collection of files that can be quickly called from chat - mass banning the bots.
+Public collection of bot ban commands to be used with !filesay commands or similar found in many larger twitch chat bots such as StreamElements and Fossabot. The purpose of these is to simply collect a list of files that can be quickly called from chat, mass banning the bots.
 
 This is maintained actively when I need it, if input is sent to me I will try to update the lists, but I also have a life so it wont be instant most days.
 If a list is needed immediatly I recommend using pastebin or similar and use same format as these files.
@@ -19,6 +19,8 @@ Copy paste of all available files for the lazy:
 !filesay https://raw.githubusercontent.com/zfih/twitch_bot_list/main/list1.txt
 !filesay https://raw.githubusercontent.com/zfih/twitch_bot_list/main/list2.txt
 ```
+
+I have not tried this with other bots like StreamLabs or Nightbot, so I don't know the requirements of these.
 
 ## Help out
 To add name make a pull request with the bot names or dm me your list on discord @ zfih#0666
