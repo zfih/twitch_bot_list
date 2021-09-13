@@ -27,5 +27,25 @@ Copy paste of all available files for the lazy:
 !filesay https://raw.githubusercontent.com/zfih/twitch_bot_list/main/list2.txt
 ```
 
-## Help out
-To add name make a pull request with the bot names or dm me your list on discord @ zfih#0666
+## How to add names
+To add names to the list, the easiest way is to use the added python script. The script will read the existing files and only add new names to the list, while keeping the lists at 400 names max.
+
+### Usage
+Add a list of names using a raw text file with names in the the following format:
+```
+name1
+name2
+name3
+```
+using python3 this can be given to the script as such:
+
+```
+python3 addnames.py -i namelist.txt
+```
+
+otherwise a short list of names can just be given as input parameters:
+```
+python3 addnames.py name1 name2 name3
+```
+
+To add name make a pull request with updated lists using the script above or the added manually in the correct format. If you don't know how to use python simply submit a list of names in the format above or dm me your list on discord @ zfih#0666 (in raw text, I will not accept files).
