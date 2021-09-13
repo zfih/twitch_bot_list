@@ -13,3 +13,4 @@
 .ban stygian_styx
 .ban yamickle
 .ban d4rk_5kyhow
+.ban lawsuit_incoming_lol
