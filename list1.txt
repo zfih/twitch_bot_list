@@ -397,4 +397,3 @@
 .ban hoss1g
 .ban hoss20
 .ban hoss200
-.ban hoss2002

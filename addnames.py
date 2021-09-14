@@ -75,7 +75,7 @@ def readExistingFiles(names):
 def writeNamesToFiles(names):
     filecount = 1
     namecount = 0
-    increment = 400 # max line count for StreamElements
+    increment = 399 # max line count for StreamElements, 400 and above is not accepted
 
     # write files in increments of 400 to disk
     while namecount < len(names):

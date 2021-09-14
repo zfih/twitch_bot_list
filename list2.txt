@@ -1,3 +1,4 @@
+.ban hoss2002
 .ban hoss2083
 .ban hoss22148
 .ban hoss22183
@@ -396,5 +397,3 @@
 .ban bingcortana
 .ban havethis2
 .ban Zenmatevpn
-.ban Maujior
-.ban phpshit
