@@ -1,6 +1,6 @@
 # Twitch bot ban list
 
-### UPDATED 13/09/21 21:52 CEST
+### UPDATED 26/09/21 10:03 CEST
 
 Public collection of bot ban commands to be used with !filesay commands or similar found in many larger twitch chat bots such as StreamElements and Fossabot. The purpose of these is to simply collect a list of files that can be quickly called from chat, mass banning the bots.
 
